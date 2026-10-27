@@ -1,5 +1,7 @@
 # KNN — https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
 
+## base de dados: https://www.kaggle.com/competitions/titanic/data
+
 ## Etapa 1 — Importar bibliotecas
 
 ```python
